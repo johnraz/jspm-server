@@ -1,0 +1,1 @@
+export let __hotReload = true; var elem = document.getElementById('placeholder'); elem.innerText = 'Hello, john!'

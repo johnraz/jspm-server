@@ -41,6 +41,8 @@
     "babelify": "~6.0.2",
     "browserify": "~9.0.7",
     "fkit": "^0.16.2",
-    "watchify": "~3.1.0"
+    "mocha": "^2.3.2",
+    "watchify": "~3.1.0",
+    "webdriverio": "^3.2.4"
   }
 }
